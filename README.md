@@ -1,4 +1,8 @@
-# time_tracking_app
+# time_tracking_app UI design made using vuejs
+
+Preview here https://codepen.io/gopalindians/pen/aboJbNG
+
+See reference: https://dribbble.com/shots/6910592-Time-tracking-app
 
 ## Project setup
 ```
